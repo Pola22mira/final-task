@@ -1,0 +1,31 @@
+body {
+	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+}
+.logo {
+	display: block;
+    margin-left: 700px;
+    margin-right: auto }	
+
+.container {
+	display: flex;
+}
+.block-1 {
+	/*display: inline-block;*/ width: 20%; }
+	
+.block-2 {
+	/*display: inline-block;*/ width: 20%;
+}
+.block-3 {
+	/*display: inline-block;*/ width: 20%;
+	}
+ a {
+	 color: #0923b4
+}
+ /*.logo-img {
+	position: absolute;
+	top:40px;
+	bottom: 0;
+	left: 620px;
+	right: 0;
+	margin: auto;
+}*/
